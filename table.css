@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', Arial, sans-serif; 
+}
+.one{
+    margin: 1px;
+    border-radius: 5px;
+    background-color: rgba(179, 252, 248, 0.938);
+    width: 55px;
+    height: 55px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    font-size: 11px;
+}
+.nume{
+    font-size: 10px
+}
+.che{
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.heading{
+    padding: 25px 180px 40px 180px;
+}
+.div1{
+    /* background-color: brown; */
+    left: 180px;
+    height: 392.94px;
+    width: 172px;
+    display: flex;
+    position: absolute;
+
+}
+.div3two{
+    display: flex;
+
+}
+.div3one{
+    display: flex;
+}
+.div3{
+    left: 380px;
+    position: absolute;
+    /* background-color: brown; */
+    bottom: 53px;;
+}
+.div2{
+    height: 393px;
+    width: 855px;
+    display: flex;
+    left: 380px;
+    position: absolute;
+    /* background-color: brown; */
+   
+}
+
+.ssecond{
+    position: absolute;
+    bottom: 0px;
+    left: 57px;
+}
+.sthird{
+    position: absolute;
+    bottom: 0px;
+    left: 114px;
+}
+.divmarg{
+    margin-top: 168px;
+}
+.divmarg2{
+    margin-top: 56px
+
+}
+.blue{
+    background-color: rgb(184, 226, 236);
+}
+.red{
+    background-color: rgba(250, 219, 219, 0.836);
+}
+.black{
+    background-color: rgb(199, 181, 181);
+}
+.purpal{
+    background-color: rgb(197, 183, 247);
+}
+.soil{
+    background-color:rgb(247, 225, 197)
+}
+.last{
+    background-color: rgb(245, 200, 163);
+}
